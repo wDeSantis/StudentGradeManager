@@ -1,0 +1,25 @@
+
+.center{
+    text-align: center;
+    margin: 0 auto;
+}
+
+.textMoy{
+    width: 50;
+}
+
+.blue{
+    color: blue;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.lst{
+    width: 100;
+}
+
+#btnAjout{
+    margin-left: 50px;
+}
